@@ -15,12 +15,12 @@ https://www.kaggle.com/johndddddd/customer-satisfaction?select=satisfaction.xlsx
 
 Dataset Understanding:
 Data is collected from US Airline passenger satisfaction survey. Data content include customer categories information
-Age: The actual age of the passengers
-Gender: Gender of the passengers (Female, Male)
-Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
-Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
-Customer Type: The customer type (Loyal customer, disloyal customer)
-Flight distance: The flight distance of this journey
+- Age: The actual age of the passengers
+- Gender: Gender of the passengers (Female, Male)
+- Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+- Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+- Customer Type: The customer type (Loyal customer, disloyal customer)
+- Flight distance: The flight distance of this journey
 
 -- Service satisfaction level rated from passenger about their flights. The level is rated from 1 to 5 corresponding to the level of dissatisfaction to extreme satisfaction. Services include Seat comfort, Departure/Arrival time convenient, Food and drink, Gate location, Inflight wi-fi service, Inflight entertainment, Online support, Ease of Online booking, On-board service, Leg room service, Baggage handling, Check-in service, Cleanliness, Online boarding 
 
