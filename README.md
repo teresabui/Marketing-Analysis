@@ -1,6 +1,5 @@
 # Marketing-Analysis - Customer Satisfaction in US Airline
 
-Introduction
 Customer satisfaction is always the top of mind in all businesses, especially in airline industry.
 The more satisfied the customers are, the more loyal they will be. The high-grade customer satisfaction is a key to run the business.
 Therefore, the companies always attempt to understand the customer’s needs and feeling so that they can improve their products or service better.
