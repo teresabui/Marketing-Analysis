@@ -1,5 +1,4 @@
-# Marketing-Analysis
-Customer Satisfaction in US Airline
+# Marketing-Analysis - Customer Satisfaction in US Airline
 
 Introduction
 Customer satisfaction is always the top of mind in all businesses, especially in airline industry.
